@@ -11,7 +11,7 @@
 
 ## Bug Description
 
-I have created a sample project where Filament Form Tabs do not seem to behave as expected. Wrong Tab content is shown or content goes missing when `live()` and `hidden()` form elements are utilised.
+I have created a sample project where Filament Form Tabs do not seem to behave as expected. Wrong Tab content is shown or content goes missing when `live()` and `hidden()` form elements are utilised. The form is built in `App\Filament\UserResource::form()`.
 
 ## Steps to reproduce
 
