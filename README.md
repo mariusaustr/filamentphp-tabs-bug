@@ -20,7 +20,7 @@ I have created a sample project where Filament Form Tabs do not seem to behave a
 - Navigate to `Users` section & press `New User` to get redirected to `Create User` form.
 - You will see multiple tabs, where form elements are displayed as expected.
 - In `Control` Tab check any of `Available` checkboxes & then check `Option 2` of the same category
-- [BUG] Confirm content fropm last tab is shown in the bottom of every tab. In the last tab it looks like padding disappears - This should not happen
+- [BUG] Confirm content from last tab is shown in the bottom of every tab. In the last tab it looks like padding disappears - This should not happen
 - ![Content from last tab shown in Control tab](screenshot-content-from-last-tab.png)
 - ![Content from last tab shown in any other random tab](screenshot-content-from-last-tab-2.png)
 - ![Last tab content shown with wrong padding](screenshot-content-in-last-tab-padding-issue.png)
